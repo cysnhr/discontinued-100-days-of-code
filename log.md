@@ -2,9 +2,8 @@
 
 ### Day 0: Jan 1, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Came across LeetCode and did one question before bed.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I keep making dumb mistakes like messing up variable names or forgetting commas.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
+**Link to work:** https://leetcode.com/problems/two-sum/submissions/869137150/
