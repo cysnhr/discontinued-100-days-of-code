@@ -1,4 +1,4 @@
-# LeetCode Reflection
+# Coding Practices Reflection
 
 A lot of times I make the same mistakes, so I figured if I keep track of it, I might start doing better!
 
