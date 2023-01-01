@@ -7,7 +7,7 @@ https://leetcode.com/problems/two-sum
 Technical mistakes:
 I don't know why I rely on for loops so much, to the extent of implementing a double for loop here. I wish as I go further into these 100 days I'd stop doing it.
 what I did:
-```
+```python
 class Solution(object):
     def twoSum(self, num, target):
         total_tests = len(num)
