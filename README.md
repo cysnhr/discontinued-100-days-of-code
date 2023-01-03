@@ -16,10 +16,10 @@
 Jan 1th, 2023.
 
 ## Additional Rules
-1. I will log my progress in GitHub [log.md] because I don't have Twitter. (see 4)
+1. I will log my progress in [GitHub](log.md) because I don't have Twitter. (see 4)
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+4. I will update the [Log](log.md) with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (Unless if I'm learning something totally new. Like Javascript. I wanna learn Javascript.)
 
 
