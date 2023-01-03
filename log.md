@@ -21,6 +21,6 @@ an alternative for linear search is `if (something) in (something)`
 
 **Today's Progress**: Learned about linked lists on [Coderbyte](https://coderbyte.com/video/the-basics-of-linked-lists). Wrote code for CS50 Problem Set 1 but is missing one tiny part where I can't identify Mastercards. Will probably finish it off tomorrow.
 
-**Thoughts:** I wrote something which is better than nothing...? Also coding while eating dinner is probably not so good for digestion because I felt and it's not because of the constant errors. But all this took wayyy too much time and I need to manage my time better.
+**Thoughts:** I wrote something which is better than nothing...? Also coding while eating dinner is probably not so good for digestion because I felt and it's not because of the constant errors. But all this took wayyy too much time, like, I just forget time passing when I'm writing this, and I need to manage my time better--should try the pomodoro technique. 
 
 **Link to work:** https://cs50.harvard.edu/x/2023/psets/1/credit/
