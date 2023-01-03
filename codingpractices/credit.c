@@ -3,7 +3,7 @@
 #include <math.h>
 
 int count(long num);
-int getFirstTwo(long num);
+int first_two(long num);
 //for verifying type of credit card
 int checksum(long num);
 //luhn's algorithm
@@ -22,7 +22,7 @@ int main(void)
         //ends main
     }
 
-    rand = getFirstTwo(num);
+    rand = first_two(num);
     c = count(num);
 
     if ((c == 15) && ((rand == 34) || (rand == 37))) {
@@ -61,11 +61,12 @@ int count(long num) {
     return count;
 }
 
-int getFirstTwo(long num) {
+int first_two(long num) {
 
     while (num > 100) {
         num /= 10;
-        //gets the two digits less than 100 after multiple divisions with 10
+        //gets the 
+        digits less than 100 after multiple divisions with 10
     }
 
     return num;
