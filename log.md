@@ -24,4 +24,4 @@ an alternative for linear search is `if (something) in (something)`
 
 **Thoughts:** I wrote something which is better than nothing...? Also coding while eating dinner is probably not so good for digestion because I felt and it's not because of the constant errors. But all this took wayyy too much time, like, I just forget time passing when I'm writing this, and I need to manage my time better--should try the pomodoro technique. 
 
-**Link to work:** https://cs50.harvard.edu/x/2023/psets/1/credit/
+**Link to work:** the code section up there and https://cs50.harvard.edu/x/2023/psets/1/credit/
