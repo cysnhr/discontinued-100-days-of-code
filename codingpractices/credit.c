@@ -35,14 +35,15 @@ int main(void)
             printf("MASTERCARD\n");
         }
         else if ((rand < 50) && (rand > 39)) {
-            //because VISAs start with 4 
             printf("VISA\n");
         }
         else {
         printf("INVALID\n");
         }
     }
-    return 0;
+    else {
+        printf("INVALID\n");
+    }
     return 0;
 }
 
@@ -72,19 +73,19 @@ int getFirstTwo(long num) {
 
 int checksum(long num) {
     int remain, even_total, odd_total, tmp, c;
-    
+
     even_total = odd_total = 0;
     c = count(num);
-    
+
     for (int i = 1; i <= c; i += 1) {
         //gets first digit counting from the end assigned to remain
         remain = num % 10;
         num /= 10;
-        
+
         //remember indent if you want this to be in the loop!!
         if (i % 2 != 0) {
             odd_total += remain;
-            //odd is the digits itself, without multiplying or anything
+            //odd is stuff no add
         }
         else {
             remain = 2 * remain;
@@ -106,10 +107,9 @@ int checksum(long num) {
     if ((even_total + odd_total) % 10 == 0) {
         return 1;
     }
-    
+
     else {
         return 0;
     }
-    //can you believe it I actually forgot to return. like. for a long time until before submitting
 
 }
