@@ -16,3 +16,11 @@ an alternative for linear search is `if (something) in (something)`
 **Thoughts:** Today I tried to code a linked list problem (see below) but I don't think I really get what they're about. Even after staring at the solutions other people are offering. I need to actually learn linked lists. Fortunately I found a great source which is Coderbyte but I still have so much homework I haven't finished.
 
 **Link to work:** https://leetcode.com/problems/add-two-numbers/description/ (It's only the description because I'm not finished and the progress looks really bad.)
+
+### Day 3: Jan 3, 2023
+
+**Today's Progress**: Learned about linked lists on (Coderbyte)[https://coderbyte.com/video/the-basics-of-linked-lists]. Wrote code for CS50 Problem Set 1 but failed--I mean, still trying.
+
+**Thoughts:** I wrote something which is better than nothing...? At least that's how I try to comfort myself. Also coding while eating dinner is probably not so good for digestion because I feel sick right now and it's not because of the constant errors.
+
+**Link to work:** https://cs50.harvard.edu/x/2023/psets/1/credit/
