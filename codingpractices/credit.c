@@ -34,13 +34,15 @@ int main(void)
             //not all cases but still
             printf("MASTERCARD\n");
         }
-        else {
+        else if ((rand < 50) && (rand > 39)) {
+            //because VISAs start with 4 
             printf("VISA\n");
         }
-    }
-    else {
+        else {
         printf("INVALID\n");
+        }
     }
+    return 0;
     return 0;
 }
 
