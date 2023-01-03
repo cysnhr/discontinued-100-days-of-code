@@ -19,8 +19,8 @@ an alternative for linear search is `if (something) in (something)`
 
 ### Day 3: Jan 3, 2023
 
-**Today's Progress**: Learned about linked lists on [Coderbyte](https://coderbyte.com/video/the-basics-of-linked-lists). Wrote code for CS50 Problem Set 1 but failed--I mean, still trying. I spent way more than one hour but it's still a jumble of stuff.
+**Today's Progress**: Learned about linked lists on [Coderbyte](https://coderbyte.com/video/the-basics-of-linked-lists). Wrote code for CS50 Problem Set 1 but is missing one tiny part where I can't identify Mastercards. Will probably finish it off tomorrow.
 
-**Thoughts:** I wrote something which is better than nothing...? At least that's how I try to comfort myself. Also coding while eating dinner is probably not so good for digestion because I feel sick right now and it's not because of the constant errors.
+**Thoughts:** I wrote something which is better than nothing...? Also coding while eating dinner is probably not so good for digestion because I felt and it's not because of the constant errors. But all this took wayyy too much time and I need to manage my time better.
 
 **Link to work:** https://cs50.harvard.edu/x/2023/psets/1/credit/
