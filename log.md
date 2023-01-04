@@ -8,7 +8,7 @@
 an alternative for linear search is `if (something) in (something)`
 
 **Link to work:** https://leetcode.com/problems/two-sum/submissions/869137150/
-<br>
+
 ### Day 2: Jan 2, 2023
 
 **Today's Progress**: Got stumped on data structures. Arghh it's a mess and me coding for one hour basically consists of 5 minutes staring at the question 5 minutes writing code 50 minutes figuring out what dumb mistake I made. 
@@ -24,4 +24,12 @@ an alternative for linear search is `if (something) in (something)`
 
 **Thoughts:** I wrote something which is better than nothing...? Also coding while eating dinner is probably not so good for digestion because I felt and it's not because of the constant errors. But all this took wayyy too much time, like, I just forget time passing when I'm writing this, and I need to manage my time better--should try the pomodoro technique. 
 
-**Link to work:** the code section up there and https://cs50.harvard.edu/x/2023/psets/1/credit/
+**Link to work:** the code section up there and [https://cs50.harvard.edu/x/2023/psets/1/credit/](https://cs50.harvard.edu/x/2023/psets/1/credit/)
+
+### Day 4: Jan 4, 2023
+
+**Today's Progress**: Finished another assignment from CS50 -- [readability](./codingpractices/credit.c). 
+
+**Thoughts:** I made less stupid mistakes today and timed myself. Honestly, before starting this challenge I thought coding for an hour was difficult to excede, but how I'm wrong. It makes me forget time :) I know it's probably easier but I felt better after coding this. Okay I'll start to learn about linked lists again tomorrow.
+
+**Link to work:** the code section up there and [https://cs50.harvard.edu/x/2023/psets/1/credit/](https://cs50.harvard.edu/x/2023/psets/2/readability/)
