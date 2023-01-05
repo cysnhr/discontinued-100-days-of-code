@@ -33,3 +33,11 @@ an alternative for linear search is `if (something) in (something)`
 **Thoughts:** I made less stupid mistakes today and timed myself. Honestly, before starting this challenge I thought coding for an hour was difficult to excede, but how I'm wrong. It makes me forget time :) I know it's probably easier but I felt better after coding this. Okay I'll start to learn about linked lists again tomorrow.
 
 **Link to work:** the code section up there and [https://cs50.harvard.edu/x/2023/psets/1/credit/](https://cs50.harvard.edu/x/2023/psets/2/readability/)
+
+### Day 5: Jan 5, 2023
+
+**Today's Progress**: Eek I was trying to code linked lists but things aren't really working out that well. I don't know why they're only giving me memory addresses and forgot to create a list instance first which led to a lot of wasted time. But I did find out more about linked lists which is pretty nice.
+
+**Thoughts:** I have coded for more than two hours and I figured it is the effort that counts, and I need to go study now. Let's see if I'll come to some grand realization tomorrow.
+
+**Link to work:** [linked_list](./codingpractices/linked_list.py)
