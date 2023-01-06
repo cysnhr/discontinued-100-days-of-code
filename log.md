@@ -59,9 +59,10 @@ output: <__main__.Random object at 0x103d91f30>
 output: 24
 ```
 When you ask for an object, it only gives you an address. I felt foolish for not knowing this but I'm glad I do now.
+(update: it's way past my sleep time and I have gotten the correct output much thanks to https://www.youtube.com/watch?v=FSsriWQ0qYE this lovely creator but I still don't know why and I'm going to try finding out tomorrow.)
 
 **Thoughts:** I'm getting frustrated with myself and I need to force myself to code only during a certain time. Also I asked a lot of people but they didn't know either so. I guess. I'm not exactly alone in the world.
 
-**Link to work:** err, no work? just a nice fun day of failed debugging. still I tried really hard to figure out the problem so here it is. [linked list debug 1](/codingpractices/linked_list_debug_1.py). Also I tried looking up other people's 100 days of code log but it looks like I'm the only one with this much useless stuff to talk about.  
+**Link to work:** err, no work? just a nice fun day of failed debugging. still I tried really hard to figure out the problem so here it is. [linked list debug 1](/codingpractices/linked_list_debug_1.py). ([correct ver](/codingpractices/linked_list_debug_2.py)) Also I tried looking up other people's 100 days of code log but it looks like I'm the only one with this much useless stuff to talk about.  
 
 
