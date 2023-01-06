@@ -62,6 +62,6 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Thoughts:** I'm getting frustrated with myself and I need to force myself to code only during a certain time. Also I asked a lot of people but they didn't know either so. I guess. I'm not exactly alone in the world.
 
-**Link to work:** err, no work? just a nice fun day of failed debugging. Also I tried looking up other people's 100 days of code log but it looks like I'm the only one with this much useless stuff to talk about.  
+**Link to work:** err, no work? just a nice fun day of failed debugging. still I tried really hard to figure out the problem so here it is. [linked list debug 1](/codingpractices/linked_list_debug_1.py). Also I tried looking up other people's 100 days of code log but it looks like I'm the only one with this much useless stuff to talk about.  
 
 
