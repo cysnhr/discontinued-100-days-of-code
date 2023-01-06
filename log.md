@@ -41,3 +41,27 @@ an alternative for linear search is `if (something) in (something)`
 **Thoughts:** I have coded for more than two hours and I figured it is the effort that counts, and I need to go study now. Let's see if I'll come to some grand realization tomorrow.
 
 **Link to work:** [linked_list](./codingpractices/linked_list.py)
+
+### Day 6: Jan 6, 2023
+
+**Today's Progress**: Gosh I just found out how objects really worked. Still haven't figured out why that linked list keeps passing in NoneTypes so frankly not a great deal of progress today.
+
+```
+>>> class Random:
+      def __init__(self, value):
+          self.value = value
+
+        
+>>> Random(24)
+output: <__main__.Random object at 0x103d91f30>
+
+>>> Random(24).value
+output: 24
+```
+When you ask for an object, it only gives you an address. I felt foolish for not knowing this but I'm glad I do now.
+
+**Thoughts:** I'm getting frustrated with myself and I need to force myself to code only during a certain time. Also I asked a lot of people but they didn't know either so. I guess. I'm not exactly alone in the world.
+
+**Link to work:** err, no work? just a nice fun day of failed debugging. Also I tried looking up other people's 100 days of code log but it looks like I'm the only one with this much useless stuff to talk about.  
+
+
