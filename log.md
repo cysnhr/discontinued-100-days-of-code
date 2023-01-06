@@ -59,7 +59,7 @@ output: <__main__.Random object at 0x103d91f30>
 output: 24
 ```
 When you ask for an object, it only gives you an address. I felt foolish for not knowing this but I'm glad I do now.
-(update: it's way past my sleep time and I have gotten the correct output much thanks to https://www.youtube.com/watch?v=FSsriWQ0qYE this lovely creator but I still don't know why and I'm going to try finding out tomorrow.)
+(update: it's way past my sleep time and I have gotten the correct output much thanks to https://www.youtube.com/watch?v=FSsriWQ0qYE this lovely creator but I still don't know why and I'm going to try finding out tomorrow. Also I worry that the code might be too similar (yup because I'm super bad at this apparently) so I'd better try writing it again tomorrow. Is there a problem with plagarizing code while citing the creator?)
 
 **Thoughts:** I'm getting frustrated with myself and I need to force myself to code only during a certain time. Also I asked a lot of people but they didn't know either so. I guess. I'm not exactly alone in the world.
 
