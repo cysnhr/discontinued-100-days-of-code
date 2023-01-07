@@ -6,6 +6,8 @@ features of linked list:
 - deletion
 - search for
 
+20230106 correct output
+
 """
 
 class Node():
