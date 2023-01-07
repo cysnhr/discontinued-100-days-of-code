@@ -65,4 +65,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** err, no work? just a nice fun day of failed debugging. still I tried really hard to figure out the problem so here it is. [linked list debug 1](/codingpractices/linked_list_debug_1.py). ([correct ver](/codingpractices/linked_list_debug_2.py)) Also I tried looking up other people's 100 days of code log but it looks like I'm the only one with this much useless stuff to talk about.  
 
+### Day 7: Jan 7, 2023
+
+**Today's Progress**: Not much. Bawled over the linked list again without a conclusion. 
+
+**Thoughts:** Maybe I should try another way although not knowing why I'm wrong stresses me out. And this whole thing is taking up wayy too much time.
+
+**Link to work:** [linked list debug](./codingpractices/linked_list_debug.md)
 
