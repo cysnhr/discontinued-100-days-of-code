@@ -73,3 +73,10 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** [linked list debug](./codingpractices/linked_list_debug.md)
 
+### Day 8: Jan 8, 2023
+
+**Today's Progress**: I spent four and a half hour taking a CS test and my eyes hurt.
+
+**Thoughts:** There's one question I was unable to get right even though I think I made a lot of sense. Argh. Confirmation bias. Blind to my own blindness. (it's not meant to sound this cynical)
+
+**Link to work:** [that for loop](./codingpractices/for_loop.py)
