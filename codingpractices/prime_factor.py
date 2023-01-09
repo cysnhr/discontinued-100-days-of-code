@@ -12,7 +12,7 @@ while n > 0:
       print(i, n)
       fac.append(i)
       n /= i
-
+# oof and also I noticed /= is going to get me floats
 
 
 """
