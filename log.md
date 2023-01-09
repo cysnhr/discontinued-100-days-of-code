@@ -80,3 +80,12 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** There's one question I was unable to get right even though I think I made a lot of sense. Argh. Confirmation bias. Blind to my own blindness. (it's not meant to sound this cynical)
 
 **Link to work:** [that for loop](./codingpractices/for_loop.py)
+
+
+### Day 9: Jan 9, 2023
+
+**Today's Progress**: I picked up a piece of code from a long time ago that looked for prime factors.
+
+**Thoughts:** Can I just laugh at myself for a moment. Also there's a math test tomorrow and somehow I can't hit enter in replit so I don't have the patience to work with my computer like that. Though I did reach the one hour benchmark even if I didn't finish the code. (Like, spent 40 minutes staring at what I've written and laughing at it.)
+
+**Link to work:** [prime factor](./codingpractices/prime_factor.py)
