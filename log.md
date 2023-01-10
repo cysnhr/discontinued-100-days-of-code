@@ -96,4 +96,4 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Thoughts:** Time's up and I've gotta move because I fear I'd fail stuff. Also I decided to organize my mistakes into a new directory.
 
-**Link to work:** [prime factor mistakes collection](./codingpractices/prime_factor.md)
+**Link to work:** [prime factor mistakes collection](./mistakes/prime_factor.md)
