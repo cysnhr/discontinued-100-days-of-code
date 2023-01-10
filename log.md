@@ -89,3 +89,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Can I just laugh at myself for a moment. Also there's a math test tomorrow and somehow I can't hit enter in replit so I don't have the patience to work with my computer like that. Though I did reach the one hour benchmark even if I didn't finish the code. (Like, spent 40 minutes staring at what I've written and laughing at it.)
 
 **Link to work:** [prime factor](./codingpractices/prime_factor.py)
+
+### Day 10: Jan 10, 2023
+
+**Today's Progress**: I was finally able to get the correct prime numbers but unable to format them accordingly. (It's asking for the `a ^ b * c` kind of format. And lists are just.)
+
+**Thoughts:** Time's up and I've gotta move because I fear I'd fail stuff. Also I decided to organize my mistakes into a new directory.
+
+**Link to work:** [prime factor mistakes collection](./codingpractices/prime_factor.md)
