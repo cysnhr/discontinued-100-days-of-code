@@ -95,5 +95,6 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Today's Progress**: I was finally able to get the correct prime numbers but unable to format them accordingly. (It's asking for the `a ^ b * c` kind of format. And lists are just.)
 
 **Thoughts:** Time's up and I've gotta move because I fear I'd fail stuff. Also I decided to organize my mistakes into a new directory. Aaand yes I do remember the linked list.
+(update 1 hr later) (I keep doing this don't I) Ahhh I figured it out and wrote an add function + repr all by myself. So proud.
 
 **Link to work:** [prime factor mistakes collection](./mistakes/prime_factor.md)
