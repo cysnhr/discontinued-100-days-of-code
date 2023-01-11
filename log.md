@@ -101,8 +101,8 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 ### Day 11: Jan 11, 2023
 
-**Today's Progress**: Ooh I made the prime factor thing work.
+**Today's Progress**: Ooh I made the prime factor thing work. 
 
-**Thoughts:** Happy.
+**Thoughts:** Happy. I'll be thinking about the linked list. How do I make it go backwards?
 
 **Link to work:** [prime factor mistakes collection](./mistakes/prime_factor.md), [prime factor](./codingpractices/prime_factor.py)
