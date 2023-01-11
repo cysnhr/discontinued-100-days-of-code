@@ -1,18 +1,19 @@
-# 20230109-20230110
+# 20230109-20230111
 
-n = 10000 # int(input())
+n = int(input())
 fac = []
 i = 2
 # find factors first
 while i < n:
   if (n % i == 0):
-    print(i, n)
     fac.append(i)
     n //= i
   else:
     i += 1
 fac.append(n)
-print(fac)
+
+# for later uses when identifying the end
+fac.append(0)
 
 # getting overlapped numbers
 same = []
@@ -21,9 +22,23 @@ for k in fac:
     same.append(k)
 
 # getting times of repetition
-rep = ""
-for e in same:
-  c = 0
-  if e in fac:
-    c += 1
-  print(f"{e} occurred {c} times")
+rep = []
+j = 0
+count = 1
+while j < len(fac) - 1:
+  if fac[j] == fac[j+1]:
+    count += 1
+    j += 1
+    continue
+  elif fac[j] != fac[j+1]: # the last '0' comes in handy
+    if count > 1:
+      string = f"{fac[j]}^{count}"
+      rep.append(string)
+      j += 1
+      count = 1 # reset count
+    elif count == 1:
+      string = f"{fac[j]}"
+      rep.append(string)
+      j += 1
+
+print(" * ".join(rep))
