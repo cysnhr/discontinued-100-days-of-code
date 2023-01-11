@@ -72,7 +72,7 @@ def __repr__(self):
 		return " -> ".join(nodes)
 ```
 `self.head` is None even after appending "A" to the list. 
-1. `node` is `self.head`, and if it is a `NoneObject` it'd have no `val` attribute. Basically wrong in variable assignment.
+$\rightarrow$ **`node` is `self.head`, and if it is a `NoneObject` it'd have no `val` attribute. Basically wrong in variable assignment.**
 
 ##### ver.2
 ```python
@@ -88,7 +88,7 @@ def __repr__(self):
 		return " -> ".join(nodes)
 ```
 The value to append gets added over and over again with the while loop. Meaning the node isn't None at the first place, hence self.head wasn't None
-1. Not altering the value of node, so it was always unchanged, and it happens to be of a value in the first place, because you added something.
+$\rightarrow$ **Not altering the value of node, so it was always unchanged, and it happens to be of a value in the first place, because you added something.**
 
 #### ver.3
 ```python
@@ -108,4 +108,4 @@ The value to append gets added over and over again with the while loop. Meaning 
 Upon testing some of these codes, Node(A) does become the new self.head after the add function. So what went wrong?
 
 I actually have no idea and for days I've been working on this but argh. Sometimes self.head is None but sometimes it isn't. I don't know what to do.
-$\rightarrow$ You didn't change the self.head in this code.
+$\rightarrow$ **You didn't change the self.head in this code.**
