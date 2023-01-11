@@ -1,4 +1,21 @@
 [Prime Factor](./codingpractices/prime_factor.py)
+completed on 2023 01 11
+
+### 2023 01 11
+```
+for e in range(0, len(fac)-1):
+  count = 1
+  print(fac[e], fac[e+1])
+  if fac[e] == fac[e+1]:
+    count += 1
+  if count == 1:
+    rep.append(fac[e])
+  else:
+    string = f"{fac[e]}^{count}"
+    rep.append(string)
+```
+1. Have not considered the last element. What if they are all the same in the list? There'd be no output.
+2. Count is not reset.
 
 ### 2023 01 10
 ```python
@@ -11,7 +28,6 @@ for e in same:
   print(f"{e} occurred {c} times")
 ```
 1. `if` is a conditional, not a loop. The maximum value of `c` will only be 1.
-
 
 ### 2023 01 09
 
@@ -42,7 +58,6 @@ def prime_fac(a):
         ls.append(int(i))
         a = a / int(i)
     return ls
-
 
 rep = []
 times = []
