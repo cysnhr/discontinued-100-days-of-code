@@ -98,3 +98,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 (update 1 hr later) (I keep doing this don't I) Ahhh I figured it out and wrote an add function + repr all by myself. So proud.
 
 **Link to work:** [prime factor mistakes collection](./mistakes/prime_factor.md)
+
+### Day 11: Jan 11, 2023
+
+**Today's Progress**: Ooh I made the prime factor thing work.
+
+**Thoughts:** Happy.
+
+**Link to work:** [prime factor mistakes collection](./mistakes/prime_factor.md), [prime factor](./codingpractices/prime_factor.py)
