@@ -106,3 +106,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Happy. I'll be thinking about the linked list. How do I make it go backwards?
 
 **Link to work:** [prime factor mistakes collection](./mistakes/prime_factor.md), [prime factor](./codingpractices/prime_factor.py)
+
+### Day 12: Jan 12, 2023
+
+**Today's Progress**: I wrote a clear function for the linked list, and picked up that leetcode question where I left it off, believing I have newfound knowledge for the data structure.
+
+**Thoughts:** Except the input is a whole class of itself and everything I did, writing my own linked list, didn't really help the question except got me to understand linked lists better. I ended up turning list nodes into lists then lists into nodes again. Stuck on the last part. Aaaand let's see if I'll be able to finish studying physics today, doubtful.
+
+**Link to work:** [add two numbers](./mistakes/add_two_numbesr.py)
