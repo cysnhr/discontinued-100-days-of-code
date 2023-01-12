@@ -22,6 +22,7 @@ class ListNode(object):
         print(ls)
       return "->".join(ls)
 
+    # append to the end
     def add(self, val):
       new_node = Node(val)
       print(f"This is the node you entered: {new_node}: {new_node.val}")
@@ -38,6 +39,7 @@ class ListNode(object):
         node.next = new_node
         print(f"Without None self.head, new node {node.next} added, {node.next.val}.")
 
+    # reverse
     def backwards(self):
       node = self.head
       node.prev = None
@@ -53,6 +55,15 @@ class ListNode(object):
         backlist.append(str(node.val))
       return "->".join(backlist)
         
+    # clear up everything
+    def clear(self):
+      node = self.head
+      while node.next is not None:
+        node = node.next
+        node.prev = None
+      self.head = None
+    
+ 
 llist = ListNode()
 llist.add("A")
 llist.add("B")
