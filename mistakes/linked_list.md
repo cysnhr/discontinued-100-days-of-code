@@ -2,6 +2,27 @@ full code [here](./codingpractices/linked_list.py) <br>
 [debug 1](./codingpractices/linked_list_debug_1.py) <br>
 [debug 2](./codingpractices/linked_list_debug_2.py) <br>
 
+### 20230112
+```python
+    def backwards(self):
+      node = self.head
+      node.prev = None
+      backlist = []
+      if node is None:
+        return "No nodes present."
+      while node.next is not None:
+        node.next.prev = node # is this how prev was defined?
+        node = node.next
+      backlist.append(str(node.val))
+      while node.prev is not None:
+        node = node.prev
+        backlist.append(str(node.val))
+      return "->".join(backlist)
+ ```
+ The reverse (go backwards) function.
+ Um I'm actually not so sure how the `.prev` attribute was defined. BUT! I wrote this by myself!! Super happy.
+
+
 ### 20230105
 
 ```python
