@@ -114,3 +114,16 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Except the input is a whole class of itself and everything I did, writing my own linked list, didn't really help the question except got me to understand linked lists better. I ended up turning list nodes into lists then lists into nodes again. Stuck on the last part. Aaaand let's see if I'll be able to finish studying physics today, doubtful.
 
 **Link to work:** [add two numbers](./mistakes/add_two_numbesr.py)
+
+### Day 13: Jan 13, 2023
+
+**Today's Progress**: Decided to put linked lists aside for now. I don't think converting them to lists and back again is how it's supposed to work.
+
+**Thoughts:** My brain physically hurts and I'm nowhere near the level of a programmer looking for a job so let's start smaller. I'm gonna get back into that python course that invited me to the world of programming but I never got to finish.
+
+**Link to work:** [add two numbers](./mistakes/add_two_numbesr.py)
+
+
+
+
+
