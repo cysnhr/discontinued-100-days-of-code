@@ -123,7 +123,10 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** [add two numbers](./mistakes/add_two_numbesr.py)
 
+### Day 14: Jan 14, 2023
 
+**Today's Progress**: Learned about recursions, space complexity, auxiliary space. Attempted another LeetCode question.
 
+**Thoughts:** Ow. My ego is hurt by my own stupidity.
 
-
+**Link to work:** [palindrome](./mistakes/palindrome.md)
