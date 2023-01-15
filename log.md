@@ -130,3 +130,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Ow. My ego is hurt by my own stupidity.
 
 **Link to work:** [palindrome](./mistakes/palindrome.md)
+
+### Day 15: Jan 15, 2023
+
+**Today's Progress**: Tried scientific computing with python course on freecodecamp.org but got stuck on booleans harharhar.
+
+**Thoughts:** Finals the day after tomorrow. I'm proud of myself for being here.
+
+**Link to work:** [arithmetic operator](./codingpractices/arithmetic_formatter.py)
