@@ -133,7 +133,7 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 ### Day 15: Jan 15, 2023
 
-**Today's Progress**: Tried scientific computing with python course on freecodecamp.org but got stuck on booleans harharhar.
+**Today's Progress**: Tried scientific computing with python course on freecodecamp.org but got stuck on booleans harharhar. More debugging to do tomorrow.
 
 **Thoughts:** Finals the day after tomorrow. I'm proud of myself for being here.
 
