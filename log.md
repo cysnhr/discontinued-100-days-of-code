@@ -138,3 +138,12 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Finals the day after tomorrow. I'm proud of myself for being here.
 
 **Link to work:** [arithmetic operator](./codingpractices/arithmetic_formatter.py)
+
+### Day 16: Jan 16, 2023
+
+**Today's Progress**: It ran fine on another replit file but couldn't pass the test. I posted a question on the forum which I see as something to be proud of because I'm scared of humans.
+
+**Thoughts:** Finals tomorrow.
+
+**Link to work:** [arithmetic operator mistakes](./mistakes/arithmetic_formatter.md)
+
