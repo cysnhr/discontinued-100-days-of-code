@@ -147,3 +147,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** [arithmetic operator mistakes](./mistakes/arithmetic_formatter.md)
 
+### Day 17: Jan 17, 2023
+
+**Today's Progress**: Solved it, was a little mistake. Started a little on Tkinter. I'll go do more of that scientific course tomorrow.
+
+**Thoughts:** More finals tomorrow.
+
+**Link to work:** [arithmetic operator mistakes](./mistakes/arithmetic_formatter.md)
+
