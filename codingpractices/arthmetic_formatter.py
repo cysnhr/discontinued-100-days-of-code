@@ -1,6 +1,6 @@
-# 20230115-20230116
+# 20230115-20230117
 
-def arithmetic_arranger(problems, answer=False):
+def arithmetic_arranger(problems, answer = False):
 
     # getting that corner case
     c = 0
@@ -21,7 +21,6 @@ def arithmetic_arranger(problems, answer=False):
       longest = 0
       len1 = len(problem[0])
       len2 = len(problem[2])
-  
       # getting the corner cases
       if len1 > 4 or len2 > 4:
         return "Error: Numbers cannot be more than four digits."
@@ -63,8 +62,13 @@ def arithmetic_arranger(problems, answer=False):
     two = '    '.join(two)
     d = '    '.join(d)
     ans = '    '.join(ans)
-    arranged_problems = f"{one}n\n{two}n\n{d}n\n{ans}"
-    return arranged_problems
+    arranged_problems = f"{one}\n{two}\n{d}\n{ans}"
+    
+    # optionally display answers
+    if answer:
+      return arranged_problems
+    else:
+      return f"{one}\n{two}\n{d}"
 
 
 
