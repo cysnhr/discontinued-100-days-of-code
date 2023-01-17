@@ -1,5 +1,18 @@
 [arithmetic formatter](./codingpractices/arithmetic_formatter.py)
 
+### 20230117
+
+I thank that user on the forum so much for catching this mistake I've been mauling over (probably not the right word?) for days. I simply did not read the instructions right, overlooking the part where they're supposed to hide the answer unless otherwise specified.
+```python
+def arithmetic_arranger(problems, answer = False):
+...
+  if answer:
+    return arranged_problems
+  else:
+    return f"{one}\n{two}\n{d}"
+```
+
+
 ### 20230116
 
 Little stupid mistakes.
