@@ -155,3 +155,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** [arithmetic operator mistakes](./mistakes/arithmetic_formatter.md)
 
+### Day 18: Jan 18, 2023
+
+**Today's Progress**: Started on the new one. I didn't exactly reach one hour but I'll add it up tomorrow.
+
+**Thoughts:** No more finals. For like one month. Yay. I do find myself coding quicker. A little I hope.
+
+**Link to work:** [time calculator](./codingpractices/time_calculator.py)
+
