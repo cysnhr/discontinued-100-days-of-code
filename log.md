@@ -163,3 +163,10 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** [time calculator](./codingpractices/time_calculator.py)
 
+### Day 19: Jan 19, 2023
+
+**Today's Progress**: All that's left is debugging.
+
+**Thoughts:** I didn't fail anything. How wonderful.
+
+**Link to work:** [time calculator](./codingpractices/time_calculator.py)
