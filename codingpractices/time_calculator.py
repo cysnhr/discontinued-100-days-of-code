@@ -1,4 +1,4 @@
-# 20230118
+# 20230118-20230119
 
 def add_time(start, duration, end_day = None):
 
@@ -19,13 +19,6 @@ def add_time(start, duration, end_day = None):
   minute = int(duration[1])
 
   # arithmetic and conditions
-  hour += hour1
-  if hour >= 12:
-    hour -= 12
-    if ap == "am":
-      ap = "PM"
-    if ap == "pm":
-      ap = "AM"
 
   minute += minutes1
   if minute >= 60:
@@ -35,14 +28,59 @@ def add_time(start, duration, end_day = None):
   if minute < 10:
     minute = f"0{minute}"
 
-  new_time = f"{hour}:{minute} {ap.upper()}"
+  # duration of days
+  days = 0
+  while hour >= 24:
+    hour -= 24
+    days += 1
+  
+  hour += hour1
 
+  if hour >= 24:
+    days += 1
+  if hour >= 12:
+    hour -= 12
+    if hour == 0:
+      hour = 12 # for display purposes
+    if ap == "am":
+      ap = "PM"
+    if ap == "pm":
+      ap = "AM"
+
+  # processing days of the week
+  if end_day:
+
+    place = 0
+    end_day = end_day.lower()
+    week = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+    for i in range(0, 7):
+      if end_day == week[i]:
+        place = i
+    place += days
+    end_day = week[place]
+
+    if days == 0:
+      new_time = f"{hour}:{minute} {ap.upper()}, {end_day.title()}"
+      return new_time
+    if days == 1:
+      new_time = f"{hour}:{minute} {ap.upper()}, {end_day.title()} (next day)"
+      return new_time
+    else:
+      new_time = f"{hour}:{minute} {ap.upper()}, {end_day.title()} ({days} days later)"
+      return new_time
+      
   # getting the days
-  if (start_time[1].lower() == "pm" and ap == "AM") or (int(duration[0]) >= 24):
+  if days == 0:
+    new_time = f"{hour}:{minute} {ap.upper()}"
+    return new_time
+  elif days == 1:
     new_time = f"{hour}:{minute} {ap.upper()} (next day)"
+    return new_time
+  elif days != 0 and days != 1:
+    new_time = f"{hour}:{minute} {ap.upper()} ({days} days later)"
+    return new_time
 
-  
-  
-  return new_time
 
-print(add_time("11:43 AM", "00:20"))
+
+print(add_time("11:43 PM", "24:20", "tueSday"))
+# Returns: 12:03 AM, Thursday (2 days later)
