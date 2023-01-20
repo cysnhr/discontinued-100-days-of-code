@@ -167,6 +167,14 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Today's Progress**: All that's left is debugging.
 
-**Thoughts:** I didn't fail anything. How wonderful.
+**Thoughts:** I didn't fail anything in the finals. How wonderful.
+
+**Link to work:** [time calculator](./codingpractices/time_calculator.py)
+
+### Day 20: Jan 20, 2023
+
+**Today's Progress**: The code looks even more complicated.
+
+**Thoughts:** I think the more I try to debug, the more I mess up my logic.
 
 **Link to work:** [time calculator](./codingpractices/time_calculator.py)
