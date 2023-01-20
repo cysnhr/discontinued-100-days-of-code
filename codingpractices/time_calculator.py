@@ -1,4 +1,4 @@
-# 20230118-20230119
+# 20230118-20230120
 
 def add_time(start, duration, end_day = None):
 
@@ -11,6 +11,8 @@ def add_time(start, duration, end_day = None):
   # XX:XX
   time = start_time[0].split(":")
   hour1 = int(time[0])
+  if ap == "pm":
+    hour1 += 12
   minutes1 = int(time[1])
 
   # duration
@@ -33,19 +35,26 @@ def add_time(start, duration, end_day = None):
   while hour >= 24:
     hour -= 24
     days += 1
-  
-  hour += hour1
 
-  if hour >= 24:
-    days += 1
+  hour += hour1
+  while hour >= 24:
+      hour -= 24
+      days += 1
+
+
   if hour >= 12:
     hour -= 12
-    if hour == 0:
-      hour = 12 # for display purposes
+    ap = "PM"
+  elif hour < 12:
+    ap = "AM"
+
+  if hour == 0:
+    hour = 12 # for display purposes
     if ap == "am":
       ap = "PM"
     if ap == "pm":
       ap = "AM"
+
 
   # processing days of the week
   if end_day:
@@ -57,6 +66,8 @@ def add_time(start, duration, end_day = None):
       if end_day == week[i]:
         place = i
     place += days
+    while place > len(week):
+      place -= len(week) - 1
     end_day = week[place]
 
     if days == 0:
@@ -69,7 +80,7 @@ def add_time(start, duration, end_day = None):
       new_time = f"{hour}:{minute} {ap.upper()}, {end_day.title()} ({days} days later)"
       return new_time
       
-  # getting the days
+  # getting the days without day of the week
   if days == 0:
     new_time = f"{hour}:{minute} {ap.upper()}"
     return new_time
@@ -79,8 +90,3 @@ def add_time(start, duration, end_day = None):
   elif days != 0 and days != 1:
     new_time = f"{hour}:{minute} {ap.upper()} ({days} days later)"
     return new_time
-
-
-
-print(add_time("11:43 PM", "24:20", "tueSday"))
-# Returns: 12:03 AM, Thursday (2 days later)
