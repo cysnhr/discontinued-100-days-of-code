@@ -178,3 +178,12 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** I think the more I try to debug, the more I mess up my logic.
 
 **Link to work:** [time calculator](./codingpractices/time_calculator.py)
+
+### Day 21: Jan 21, 2023
+
+**Today's Progress**: Done.
+
+**Thoughts:** It's not clean code but it works. And also there are a lot of rules in the requirements so I guess that makes up for excuses.
+
+**Link to work:** [time calculator](./codingpractices/time_calculator.py)
+
