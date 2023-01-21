@@ -181,9 +181,9 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 ### Day 21: Jan 21, 2023
 
-**Today's Progress**: Done. Starting on the next in a few days but I wanna learn about TKinter first.
+**Today's Progress**: Done. Started on the next project and got a little confused about classes but kinda picked it up again?
 
 **Thoughts:** It's not clean code but it works. And also there are a lot of rules in the requirements so I guess that makes up for excuses.
 
-**Link to work:** [time calculator](./codingpractices/time_calculator.py)
+**Link to work:** [budget](./codingpractices/budget.py)
 
