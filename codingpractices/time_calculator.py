@@ -1,4 +1,4 @@
-# 20230118-20230120
+# 20230118-20230121
 
 def add_time(start, duration, end_day = None):
 
@@ -66,8 +66,8 @@ def add_time(start, duration, end_day = None):
       if end_day == week[i]:
         place = i
     place += days
-    while place > len(week):
-      place -= len(week) - 1
+    while place > len(week) - 1:
+      place -= len(week)
     end_day = week[place]
 
     if days == 0:
