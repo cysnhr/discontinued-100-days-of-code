@@ -181,7 +181,7 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 ### Day 21: Jan 21, 2023
 
-**Today's Progress**: Done.
+**Today's Progress**: Done. Starting on the next in a few days but I wanna learn about TKinter first.
 
 **Thoughts:** It's not clean code but it works. And also there are a lot of rules in the requirements so I guess that makes up for excuses.
 
