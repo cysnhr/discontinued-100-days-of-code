@@ -17,3 +17,5 @@ if end_day:
 ```
 
 Something was super wrong with the list index management but after tinkering with it for a while I solved it. Even though I'm not 100% sure how. I guess it just needed work on numbers and logic and stuff.
+
+[time calculator](./codingpractices/time_calculator.py)
