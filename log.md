@@ -187,3 +187,10 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 **Link to work:** [budget](./codingpractices/budget.py)
 
+### Day 22: Jan 22, 2023
+
+**Today's Progress**: More progress. Yay. 
+
+**Thoughts:** Formatting output is frustrating. I'll do more on my flight tonight.
+
+**Link to work:** [budget](./codingpractices/budget.py)
