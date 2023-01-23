@@ -194,3 +194,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Formatting output is frustrating. I'll do more on my flight tonight.
 
 **Link to work:** [budget](./codingpractices/budget.py)
+
+### Day 23: Jan 23, 2023
+
+**Today's Progress**: Jet lagged.
+
+**Thoughts:** I feel dead.
+
+**Link to work:** the work is so tiny and wrong, even, for me to put it up.
