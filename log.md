@@ -202,3 +202,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** I feel dead.
 
 **Link to work:** the work is so tiny and wrong, even, for me to put it up.
+
+### Day 24: Jan 24, 2023
+
+**Today's Progress**: Debug tomorrow.
+
+**Thoughts:** I feel better today but this code seems really memory usage inefficient and stuff. Also it doesn't pass the test so more debugging tmr.
+
+**Link to work:** [budget](./codingpractices/budget.py)
