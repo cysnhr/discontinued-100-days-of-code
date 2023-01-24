@@ -1,4 +1,4 @@
-# 20230121-22
+# 20230121-24
 
 class Category:
   def __init__(self, name, ledger=[], balance=0.00):
@@ -53,15 +53,21 @@ class Category:
 
 
 def create_spend_chart(categories: list):
+  # topmost
   output = "Percentage spent by category\n"
+
+  # calculates portions
   # get total withdrawal
   total_spent = 0.00
+  # also the name of categories for later purposes
+  name_list = []
   for self in categories:
+    name_list.append(self.name)
     for item in self.ledger:
       if item["amount"] < 0:
         total_spent += abs(item["amount"]) 
   total_spent = round(total_spent, 2)
-  
+
   # have to get total_spent before retrieving each individual total of ledgers
   # this is each total of individual categories
   each_spent = []
@@ -73,12 +79,50 @@ def create_spend_chart(categories: list):
     # portion!
     portion = int(round(100 * (category_spent/total_spent), -1))
     each_spent.append(portion)
-  
-  # status bar
-  output += ""
-  
-  
-  return each_spent
+
+  y = [100,90,80,70,60,50,40,30,20,10,0]
+  for most in y:
+    # spacing
+    if most == 100:
+      output += f"{most}| "
+    elif most == 0:
+      output += f"  {most}| "
+    else:
+      output += f" {most}| "
+
+    # chart
+    for each in each_spent:
+      if each >= most:
+        output += " o "
+      else:
+        output += "   "
+    output += "\n"
+
+  # bottom most
+
+  # find max length to get the correct spacing
+  max_len = 0
+  for name in name_list:
+    if len(name) > max_len:
+      max_len = len(name)
+
+  # adding spaces for spacing purposes :)
+  new = []
+  for name in name_list:
+    name += ' ' * (max_len - len(name))
+    new.append(name)
+
+  line = "    " + "-" * 3 * len(name_list) + "-\n"
+  output += line
+  for i in range(0, max_len):
+    output += "    "
+    for name in new:
+      line = f" {name[i]} "
+      output += line
+    output += " \n"
+
+  return output
+
 
 food = Category("Food")
 food.deposit(1000, "initial deposit")
