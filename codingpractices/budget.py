@@ -1,4 +1,4 @@
-# 20230121-24
+# 20230121-25
 
 class Category:
   def __init__(self, name, ledger=[], balance=0.00):
@@ -19,6 +19,7 @@ class Category:
       des = des[0:29-len(num)] # because the spaces
       des += " " + '{:.2f}'.format(dict["amount"])
       output += f"{des}\n"
+    output += f"Total: {self.balance}"
     return output
   
   def deposit(self, amount: float, description: str=""):
@@ -30,26 +31,31 @@ class Category:
       if self.balance < amount:
         return False
       else:
-        pass
+        return True
 
   def withdraw(self, amount:float, description:str=""):
-      self.check_funds(amount) # for calling a method that's in the same class
-      withdrawdict = {"amount": 0.00 - amount, "description": description} # because they're supposed to be negative
-      self.ledger.append(withdrawdict)
-      self.balance -= amount
-      return True
+      if self.check_funds(amount): # for calling a method that's in the same class
+        withdrawdict = {"amount": 0.00 - amount, "description": description} # because they're supposed to be negative
+        self.ledger.append(withdrawdict)
+        self.balance -= amount
+        return True
+      else:
+        return False
 
+  
   def get_balance(self):
     return self.balance
 
   def transfer(self, amount: float, to_ledger):
-      self.check_funds(amount)
-      self.balance -= amount
-      withdrawdict = {"amount": 0.00 - amount, "description": f"Transfer to {to_ledger.name}"}
-      self.ledger.append(withdrawdict)
-      to_ledger.ledger.append({"amount": amount, "description": f"Transfer from {self.name}"})
-      to_ledger.balance += amount
-      return True
+      if self.check_funds(amount):
+        self.balance -= amount
+        withdrawdict = {"amount": 0.00 - amount, "description": f"Transfer to {to_ledger.name}"}
+        self.ledger.append(withdrawdict)
+        to_ledger.ledger.append({"amount": amount, "description": f"Transfer from {self.name}"})
+        to_ledger.balance += amount
+        return True
+      else:
+        return False
 
 
 def create_spend_chart(categories: list):
@@ -66,7 +72,6 @@ def create_spend_chart(categories: list):
     for item in self.ledger:
       if item["amount"] < 0:
         total_spent += abs(item["amount"]) 
-  total_spent = round(total_spent, 2)
 
   # have to get total_spent before retrieving each individual total of ledgers
   # this is each total of individual categories
@@ -77,18 +82,18 @@ def create_spend_chart(categories: list):
       if item["amount"] < 0:
         category_spent += abs(item["amount"])
     # portion!
-    portion = int(round(100 * (category_spent/total_spent), -1))
+    portion = int(round(100 * (category_spent/total_spent)))
     each_spent.append(portion)
 
   y = [100,90,80,70,60,50,40,30,20,10,0]
   for most in y:
     # spacing
     if most == 100:
-      output += f"{most}| "
+      output += f"{most}|"
     elif most == 0:
-      output += f"  {most}| "
+      output += f"  {most}|"
     else:
-      output += f" {most}| "
+      output += f" {most}|"
 
     # chart
     for each in each_spent:
@@ -96,7 +101,7 @@ def create_spend_chart(categories: list):
         output += " o "
       else:
         output += "   "
-    output += "\n"
+    output += " \n"
 
   # bottom most
 
@@ -120,7 +125,9 @@ def create_spend_chart(categories: list):
       line = f" {name[i]} "
       output += line
     output += " \n"
-
+  
+  output = output.rstrip()
+  output += "  "
   return output
 
 
