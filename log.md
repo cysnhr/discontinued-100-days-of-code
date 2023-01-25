@@ -210,3 +210,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** I feel better today but this code seems really memory usage inefficient and stuff. Also it doesn't pass the test so more debugging tmr.
 
 **Link to work:** [budget](./codingpractices/budget.py)
+
+### Day 25: Jan 25, 2023
+
+**Today's Progress**: Caught that bug.
+
+**Thoughts:** _A LOT_ of spacing problems that are just dumb (okay I can't blame anyone except for myself) and wrong approximation stuff, me being lazy and overlooking important things and all that.
+
+**Link to work:** [budget mistakes](./mistakes/budget.md)
