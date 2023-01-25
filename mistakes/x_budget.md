@@ -1,3 +1,17 @@
+### 20230125
+```python
+each_spent = []
+for self in categories:
+  category_spent = 0
+  for item in self.ledger:
+    if item["amount"] < 0:
+      category_spent += abs(item["amount"])
+  # portion!
+  portion = int(round(100 * (category_spent/total_spent), -1))
+  each_spent.append(portion)
+```
+I'm not supposed to round up to the tens digit, because charts take the approximate but doing it too soon would make the accuracy go off. Okay my brain is off and so is my language skills but what I mean is that don't do too much approximation in these science stuff.
+
 ### 20230121
 
 ```python
