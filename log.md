@@ -218,3 +218,11 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** _A LOT_ of spacing problems that are just dumb (okay I can't blame anyone except for myself) and wrong approximation stuff, me being lazy and overlooking important things and all that.
 
 **Link to work:** [budget mistakes](./mistakes/budget.md)
+
+### Day 26: Jan 26, 2023
+
+**Today's Progress**: Finished next project. I completely forgotted class inheritance.
+
+**Thoughts:** Yay.
+
+**Link to work:** [polygon area calculator](./codingpractices/polygon_area_calculator.py)
