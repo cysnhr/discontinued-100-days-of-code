@@ -221,7 +221,7 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 
 ### Day 26: Jan 26, 2023
 
-**Today's Progress**: Finished next project. I completely forgotted class inheritance.
+**Today's Progress**: Finished next project. I completely forgot  class inheritance.
 
 **Thoughts:** Yay.
 
