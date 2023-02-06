@@ -226,3 +226,13 @@ When you ask for an object, it only gives you an address. I felt foolish for not
 **Thoughts:** Yay.
 
 **Link to work:** [polygon area calculator](./codingpractices/polygon_area_calculator.py)
+
+I had a fever and a lot of stuff happened. To recount them in detail may make me sound like I'm whining. But now I'm back in Taiwan and back here :)
+
+### Day 27: Feb 06, 2023
+
+**Today's Progress**: Struggling on final project.
+
+**Thoughts:** I'm trying to pick up what coding feels like, after, what, a week away? Maybe failing but I'll get there eventually. I think this project is a little challenging.
+
+**Link to work:** [probability calculator](./codingpractices/probability_calculator.py)
