@@ -236,3 +236,11 @@ I had a fever and a lot of stuff happened. To recount them in detail may make me
 **Thoughts:** I'm trying to pick up what coding feels like, after, what, a week away? Maybe failing but I'll get there eventually. I think this project is a little challenging.
 
 **Link to work:** [probability calculator](./codingpractices/probability_calculator.py)
+
+### Day 28: Feb 07, 2023
+
+**Today's Progress**: Corrected the __init__ method. Turns out I misunderstood stuff.
+
+**Thoughts:** HOW, how do I remove things from a list at random? (I think I got it (after an hour), corrected the draw method as well.)
+
+**Link to work:** [notes on probability calculator](./mistakes/notes_prob_calculator.md)
