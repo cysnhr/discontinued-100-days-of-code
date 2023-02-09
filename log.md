@@ -272,6 +272,8 @@ print(id(d_copy))
 ```
 
 The value of shallow copies will be modified if the original variable is changed. Deep copies do not get affected.
+BUT! If a variable is an integer and b = var, b is the same as var, but then when b undergoes an arithmetic operation, b becomes a new thing.
+It's called ==binding==, I learned.
 
 **Thoughts:** 
 
