@@ -33,7 +33,7 @@ class Hat:
 """
 they count things, returning dictionaries of overlapped counts.
 """
-# code adapted from OpenAI's ChatGPT because I really cannot figure this out on my own
+# this function code is adapted from OpenAI's ChatGPT because I really cannot figure this out on my own
 
 def overlap(list1, list2):
     count_1 = Counter(list1)
