@@ -244,3 +244,35 @@ I had a fever and a lot of stuff happened. To recount them in detail may make me
 **Thoughts:** HOW, how do I remove things from a list at random? (I think I got it (after an hour), corrected the draw method as well.)
 
 **Link to work:** [notes on probability calculator](./mistakes/notes_prob_calculator.md)
+
+I hope forgetting doesn't become a habit. I need to build my daily coding habit again :(
+
+### Day 29: Feb 09, 2023
+
+**Today's Progress**: I cannot believe that I did not know creating a variable that has its value assigned to another variable is only a new reference and not a new variable with a new memory address. 
+
+```python
+import copy
+
+original = [1, 2, [3, 4]]
+assigned = original
+s_copy = original.copy()
+d_copy = copy.deepcopy(original)
+
+print(assigned, s_copy, d_copy)
+>>> [1, 2, [3, 4]] [1, 2, [3, 4]] [1, 2, [3, 4]]
+print(id(assigned))
+>>> 4370730432
+print(id(original))
+>>> 4370730432
+print(id(s_copy))
+>>> 4418536192
+print(id(d_copy))
+>>> 4418518272
+```
+
+The value of shallow copies will be modified if the original variable is changed. Deep copies do not get affected.
+
+**Thoughts:** 
+
+**Link to work:** 
