@@ -277,4 +277,4 @@ It's called **binding**, I learned.
 
 **Thoughts:** I FINISHED THE COURSE. (The challenges, more like, and I didn't even write that perfect code BUT STILL.)
 
-**Link to work:** HAHAHA I'm proud to put this on https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody.
+**Link to work:** HAHAHA I'm proud to put this on https://www.freecodecamp.org/certification/cysnhr/scientific-computing-with-python-v7. It's such a nice community, I must say, I got so much help from the forum even without posting a lot. I love how there's so much activity and no one is shy to ask questions.
