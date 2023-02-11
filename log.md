@@ -278,3 +278,11 @@ It's called **binding**, I learned.
 **Thoughts:** I FINISHED THE COURSE. (The challenges, more like, and I didn't even write that perfect code BUT STILL.)
 
 **Link to work:** HAHAHA I'm proud to put this on https://www.freecodecamp.org/certification/cysnhr/scientific-computing-with-python-v7. It's such a nice community, I must say, I got so much help from the forum even without posting a lot. I love how there's so much activity and no one is shy to ask questions.
+
+### Day 30: Feb 10, 2023
+
+**Today's Progress**: (updated on feb 11 because i forgot) Started on a productivity project
+
+**Thoughts:** I don't really get TKinter yet, let's see how long it's going to take for me.
+
+**Link to work:** [time management project](./codingpractices/time_management.py)
