@@ -281,8 +281,17 @@ It's called **binding**, I learned.
 
 ### Day 30: Feb 10, 2023
 
-**Today's Progress**: (updated on feb 11 because i forgot) Started on a productivity project
+**Today's Progress**: I was watching tutorials and it became 2/11.
 
 **Thoughts:** I don't really get TKinter yet, let's see how long it's going to take for me.
+
+**Link to work:** uh. youtube?
+
+
+### Day 31: Feb 11, 2023
+
+**Today's Progress**: Started on a productivity project.
+
+**Thoughts:** Still don't get it.
 
 **Link to work:** [time management project](./codingpractices/time_management.py)
