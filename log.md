@@ -295,3 +295,12 @@ It's called **binding**, I learned.
 **Thoughts:** Still don't get it.
 
 **Link to work:** [time management project](./codingpractices/time_management.py)
+
+### Day 32: Feb 12, 2023
+
+**Today's Progress**: Started notetaking.
+
+**Thoughts:** I tried to code but can't remember all the attributes and stuff so noted them down. However not coding seems like cheating and I don't want to spend so much of my 100 days notetaking like this. So now I will count two notetaking days as one. Also it's been a month, wow. Although not consecutive, stull impressive for me.
+
+**Link to work:** [tkinter notes](./notes/tkinter.md) //recheck file name
+
