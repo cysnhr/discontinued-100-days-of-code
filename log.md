@@ -302,5 +302,6 @@ It's called **binding**, I learned.
 
 **Thoughts:** I tried to code but can't remember all the attributes and stuff so noted them down. However not coding seems like cheating and I don't want to spend so much of my 100 days notetaking like this. So now I will count two notetaking days as one. Also it's been a month, wow. Although not consecutive, stull impressive for me.
 
-**Link to work:** [tkinter notes](./notes/tkinter.md) //recheck file name
+**Link to work:** [tkinter notes](./notes/tkinter.md) 
 
+2/13 sorry I need to take a short break to get school stuff in order. School started today and I don't know why there are so many things to tend to. be back in a week at most.
