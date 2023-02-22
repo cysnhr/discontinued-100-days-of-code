@@ -305,3 +305,4 @@ It's called **binding**, I learned.
 **Link to work:** [tkinter notes](./notes/tkinter.md) 
 
 2/13 sorry I need to take a short break to get school stuff in order. School started today and I don't know why there are so many things to tend to. be back in a week at most.
+2/22 Due to more unexpected issues in school, I must prioritize and halt the challenge. I will continue it, however, in the future. A few more weeks later, maybe? Does this count as failure, should I start a new project, a new round?
