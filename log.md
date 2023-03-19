@@ -306,3 +306,14 @@ It's called **binding**, I learned.
 
 2/13 sorry I need to take a short break to get school stuff in order. School started today and I don't know why there are so many things to tend to. be back in a week at most.
 2/22 Due to more unexpected issues in school, I must prioritize and halt the challenge. I will continue it, however, in the future. A few more weeks later, maybe? Does this count as failure, should I start a new project, a new round?
+
+### halted 2/12
+### started 3/19
+
+### Day 33: Mar 19, 2023
+
+**Today's Progress**: Finished that nagging palindrome question.
+
+**Thoughts:** I love Youtube. So I've been reading about Carol Dweck's growth mindset. So I'm back. I know this challenge is meant for one to continue on the course on 100 days but I might miss a day or two because of the hectic schedule. Point is, I'm back, and I'm excited to see how I might end up like. (Hey but I'm only going to start with the easy problems first because I don't think I have a good basic. Also I want to try coding in C.)
+
+**Link to work:** [palindrome](./mistakes/palindrome.md) 
