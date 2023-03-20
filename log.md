@@ -317,3 +317,11 @@ It's called **binding**, I learned.
 **Thoughts:** I love Youtube. So I've been reading about Carol Dweck's growth mindset. So I'm back. I know this challenge is meant for one to continue on the course on 100 days but I might miss a day or two because of the hectic schedule. Point is, I'm back, and I'm excited to see how I might end up like. (Hey but I'm only going to start with the easy problems first because I don't think I have a good basic. Also I want to try coding in C.)
 
 **Link to work:** [palindrome](./mistakes/palindrome.md) 
+
+### Day 33.5: Mar 20, 2023
+
+**Today's Progress**: Started on roman to integer code.
+
+**Thoughts:** Can't manage one hour per day. I'll cut up my days so I won't be taking advantage of this self evaluated challenge.
+
+**Link to work:** [roman to integer](./mistakes/rm_to_int.md) 
