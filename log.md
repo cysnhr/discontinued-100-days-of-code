@@ -325,3 +325,11 @@ It's called **binding**, I learned.
 **Thoughts:** Can't manage one hour per day. I'll cut up my days so I won't be taking advantage of this self evaluated challenge.
 
 **Link to work:** [roman to integer](./mistakes/rm_to_int.md) 
+
+### Day 34.0: Mar 21, 2023
+
+**Today's Progress**: Tinkered with it in class.
+
+**Thoughts:** Eek. (nonsensical sound)
+
+**Link to work:** [roman to integer](./mistakes/rm_to_int.md) 
