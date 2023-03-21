@@ -26,3 +26,21 @@ class Solution(object):
         """
         
 ```
+#### 0321
+
+```python
+converted = []
+for l in s:
+  for i in range(0, len(rm)):
+    if l == rm[i]:
+      converted.append(rm[i])
+
+converted.append(0)
+ans = 0
+
+for n in len(s):
+  if converted[n] < converted[n+1]:
+    ans -= converted[n])
+  else:
+    ans += converted[n]
+```
