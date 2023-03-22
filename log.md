@@ -333,3 +333,5 @@ It's called **binding**, I learned.
 **Thoughts:** Eek. (nonsensical sound)
 
 **Link to work:** [roman to integer](./mistakes/rm_to_int.md) 
+
+exam in two days. lemme take four days off
