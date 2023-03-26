@@ -335,3 +335,12 @@ It's called **binding**, I learned.
 **Link to work:** [roman to integer](./mistakes/rm_to_int.md) 
 
 exam in two days. lemme take four days off
+
+### Day 35: Mar 26, 2023
+
+**Today's Progress**: I tinkered with my Raspberry Pi for three hours, successfully installing and setting up ssh and vnc which means I'm now able to access the device from my macbook, but I do look quite funny accessing a computer from another one. Also I finally learned how to make led lights from breadboards light up, though I'm still not exactly sure how those circuits work. I was so afraid it'd start melting everything down but fortunately it did not.
+
+**Thoughts:** I think I have mistakenly written down my thoughts in the progress so.
+
+**Link to work:** no link
+
