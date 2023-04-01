@@ -344,3 +344,12 @@ exam in two days. lemme take four days off
 
 **Link to work:** no link
 
+graduation trip for four days
+
+### Day 36: Apr 1, 2023
+
+**Today's Progress**: More Raspberry Pi.
+
+**Thoughts:** More failed attempts. Somehow I have only 1GB left on the disk and I can't install PyCharm. I spent a lot of time with ChatGPT trying to figure out how to empty my trash can.
+
+**Link to work:** no link
