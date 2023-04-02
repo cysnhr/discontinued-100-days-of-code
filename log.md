@@ -353,3 +353,11 @@ graduation trip for four days
 **Thoughts:** More failed attempts. Somehow I have only 1GB left on the disk and I can't install PyCharm. I spent a lot of time with ChatGPT trying to figure out how to empty my trash can.
 
 **Link to work:** no link
+
+### Day 37: Apr 2, 2023
+
+**Today's Progress**: Went back to the Roman to Integer thing and solved it.
+
+**Thoughts:** I was about to give up because I figured using for loops is too stupid. But then I looked at the previous codes I wrote and figured I could probably do it. It's still a dumb inefficient solution so I went to Youtube to check out what other people wrote. I'll make the notes in the link to work below.
+
+**Link to work:** [roman to integer](./codingpractices/roman_to_integer.py) 
