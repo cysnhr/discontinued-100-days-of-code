@@ -356,8 +356,9 @@ graduation trip for four days
 
 ### Day 37: Apr 2, 2023
 
-**Today's Progress**: Went back to the Roman to Integer thing and solved it.
+**Today's Progress**: Went back to the Roman to Integer thing and solved it. Started on second FreeCodeCamp.org course with data structure thingys by Javascript. 
 
 **Thoughts:** I was about to give up because I figured using for loops is too stupid. But then I looked at the previous codes I wrote and figured I could probably do it. It's still a dumb inefficient solution so I went to Youtube to check out what other people wrote. I'll make the notes in the link to work below.
+I love how interactive the lessons FreeCodeCamp.org offers, like coding right next to the instructions.
 
 **Link to work:** [roman to integer](./codingpractices/roman_to_integer.py) 
