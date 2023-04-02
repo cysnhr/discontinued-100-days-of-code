@@ -25,8 +25,8 @@ class Solution(object):
         return ans
 
         
-        """
-        :type s: str
-        :rtype: int
-        """
+"""
+People usually use dictionaries instead of doing all this excessive looping. Switch-case is also good. I iterated through the same string twice which was not really efficient.
+
+"""
         
