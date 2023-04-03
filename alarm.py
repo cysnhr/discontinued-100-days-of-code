@@ -101,4 +101,17 @@ threading.Thread(target=alarm.on).start()  # Just so the while True loop won't m
 
 app.mainloop()
 
-# Will put on citations
+"""
+Citations. Much thanks to the help of these sources!
+
+Python GUI cheatsheet. GitHub. https://gist.github.com/athiyadeviyani/b18afdc8136f003956b1a71d94a6c696 
+
+Create an alarm clock using Tkinter. GeeksforGeeks. https://www.geeksforgeeks.org/creat-an-alarm-clock-using-tkinter/ 
+
+How can I schedule updates (F/e, to update a clock) in Tkinter? Stack Overflow. https://stackoverflow.com/questions/2400262/how-can-i-schedule-updates-f-e-to-update-a-clock-in-tkinter 
+
+Python Threading Explained in 8 Minutes. YouTube. https://www.youtube.com/watch?v=A_Z1lgZLSNc 
+
+Screenshot of ChatGPT’s assistance with VLC Media Player module. https://docs.google.com/document/d/189RgqfFLlzcYq5g6sSnXSYbSojAg2OEJEkIOLVe7BMs/edit 
+
+"""
