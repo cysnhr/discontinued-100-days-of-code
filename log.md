@@ -362,3 +362,11 @@ graduation trip for four days
 I love how interactive the lessons FreeCodeCamp.org offers, like coding right next to the instructions.
 
 **Link to work:** [roman to integer](./codingpractices/roman_to_integer.py) 
+
+### Day 38: Apr 3, 2023
+
+**Today's Progress**: I'M PROUDDDDDD
+
+**Thoughts:** I finished that alarm project, finally! My eyes hurt and I love Stack Overflow and Chat GPT and Google.
+
+**Link to work:** [Raspberry Pi alarm](./alarm.py) 
