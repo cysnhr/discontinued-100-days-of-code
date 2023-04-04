@@ -94,3 +94,63 @@ int search(int* nums, int numsSize, int target){
     
 }
 ```
+
+ver 3
+
+```c
+int search(int* nums, int numsSize, int target){
+    
+    /* nums: array, numSize, target
+    output: the index of target if in nums array
+    
+    binary search: middle, cut half, middle
+    loop
+    */
+    
+    int mid = numsSize / 2;
+    int orig = numsSize;
+    
+    while (numsSize > 1 && mid != orig) {
+        printf("%i %i\n", mid, numsSize);
+        if (target > nums[mid]) {
+            numsSize /= 2;
+            mid += numsSize;
+            if (mid == orig) {
+                mid -= 1;
+            }
+        }
+        else if (target < nums[mid]) {
+            numsSize /= 2;
+            mid -= numsSize;
+            if (mid == 0) {
+                mid += 1;
+            }
+        }
+        else if (target == nums[mid]) {
+            return mid;
+        }
+    }
+    
+    printf("%i %i %i\n", mid, numsSize, orig);
+    
+    if (mid == 0 && target == nums[mid]) {
+        return 0;
+    }
+    if (mid > 0) {
+        if (target == nums[mid-1]) {
+            return mid - 1;
+        }
+        if (mid < orig) {
+            if (target == nums[mid]) {
+                return mid;
+            }
+            else if (target == nums[mid+1]) {
+                return mid + 1;
+            }
+        }
+    }
+    
+    
+    return -1;
+}
+```
