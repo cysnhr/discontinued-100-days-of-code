@@ -1,3 +1,8 @@
+#### 20230403
+
+ver 1
+
+```c
 int search(int* nums, int numsSize, int target){
     /* nums: array, numSize, target
     output: the index of target if in nums array
@@ -43,3 +48,49 @@ int search(int* nums, int numsSize, int target){
     
     return 0;
 }
+```
+
+ver 2
+
+```c
+int search(int* nums, int numsSize, int target){
+    
+    /* nums: array, numSize, target
+    output: the index of target if in nums array
+    
+    binary search: middle, cut half, middle
+    loop
+    */
+    
+    int mid = numsSize / 2;
+    
+    while (numsSize > 1) {
+        printf("%i %i\n", mid, numsSize);
+        if (target > nums[mid]) {
+            numsSize /= 2;
+            mid += numsSize;
+            if (mid == numsSize * 2) {
+                mid -= 1;
+            }
+        }
+        else if (target < nums[mid]) {
+            numsSize /= 2;
+            mid -= numsSize;
+            if (mid == 0) {
+                mid += 1;
+            }
+        }
+        else if (target == nums[mid]) {
+            return mid;
+        }
+    }
+    
+    if (numsSize == 1) {
+        return -1;
+    }
+    else {
+        return 0;
+    }
+    
+}
+```
