@@ -370,3 +370,11 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 **Thoughts:** I finished that alarm project, finally! My eyes hurt and I love Stack Overflow and Chat GPT and Google.
 
 **Link to work:** [Raspberry Pi alarm](./alarm.py) 
+
+### Day 39: Apr 4, 2023
+
+**Today's Progress**: 45% of the Basic Javascript course. (Yup it's really basic.) Back to hurting head with Leetcode. 
+
+**Thoughts:** I probably should know binary search already but apparently I don't. Anyways it's a nice chance to think and learn. I'll figure it out just gimme some time.
+
+**Link to work:** [Raspberry Pi alarm](./mistakes/binary.c) 
