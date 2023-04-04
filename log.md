@@ -376,5 +376,6 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 **Today's Progress**: 45% of the Basic Javascript course. (Yup it's really basic.) Back to hurting head with Leetcode. 
 
 **Thoughts:** I probably should know binary search already but apparently I don't. Anyways it's a nice chance to think and learn. I'll figure it out just gimme some time.
+Update 2 hrs later: By this point I'm adding so many conditional logic it's feeling meaningless. I guess I'll go look at the tutorials and think about why I'm wrong.
 
-**Link to work:** [Raspberry Pi alarm](./mistakes/binary.c) 
+**Link to work:** [binary search](./mistakes/binary.c) 
