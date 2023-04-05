@@ -373,7 +373,7 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 ### Day 39: Apr 4, 2023
 
-**Today's Progress**: Solved the binary search. I love YouTube coding tutorials (https://www.youtube.com/watch?v=9q0k3OyCKPY). Started on another thingy that requires sorting but I forgot all about these algorithms. 
+**Today's Progress**: Solved the binary search. I love YouTube coding tutorials (https://www.youtube.com/watch?v=9q0k3OyCKPY). Started on another thingy that requires sorting but I forgot all about these algorithms. 50% progress on javascript course.
 
 **Thoughts:** Tomorrow after getting to school I'm going to borrow an algo book from a classmate. Meanwhile I don't think I understand the execution of the binary search 100%. Imma keep thinking until I understand it.
 
