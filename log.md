@@ -373,9 +373,8 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 ### Day 39: Apr 4, 2023
 
-**Today's Progress**: 45% of the Basic Javascript course. (Yup it's really basic.) Back to hurting head with Leetcode. 
+**Today's Progress**: Solved the binary search. I love YouTube coding tutorials (https://www.youtube.com/watch?v=9q0k3OyCKPY). Started on another thingy that requires sorting but I forgot all about these algorithms. 
 
-**Thoughts:** I probably should know binary search already but apparently I don't. Anyways it's a nice chance to think and learn. I'll figure it out just gimme some time.
-Update 2 hrs later: By this point I'm adding so many conditional logic it's feeling meaningless. I guess I'll go look at the tutorials and think about why I'm wrong.
+**Thoughts:** Tomorrow after getting to school I'm going to borrow an algo book from a classmate. Meanwhile I don't think I understand the execution of the binary search 100%. Imma keep thinking until I understand it.
 
 **Link to work:** [binary search](./mistakes/binary.c) 
