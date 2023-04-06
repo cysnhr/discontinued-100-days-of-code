@@ -378,3 +378,11 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 **Thoughts:** Tomorrow after getting to school I'm going to borrow an algo book from a classmate. Meanwhile I don't think I understand the execution of the binary search 100%. Imma keep thinking until I understand it.
 
 **Link to work:** [binary search](./mistakes/binary.c) 
+
+### Day 39.1: Apr 5, 2023
+
+**Today's Progress**: Went to the dentist tonight so didn't do anything. But I had someone write me the code for merge sort and I'm now staring at it in wonder.
+
+**Thoughts:** From time to time I just have to be amazed at how weirdly cool programming is.
+
+**Link to work:** ehhh I didn't do anything
