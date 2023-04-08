@@ -387,11 +387,12 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 **Link to work:** ehhh I didn't do anything
 
-### Day 39.2: Apr 8, 2023
+### Day 40: Apr 8, 2023
 
 **Today's Progress**: I found out that the code involved pointers and realized that I have such a terrible foundation so I'm going back to CS50. I'm going to get better at this I promise. (Like, a promise to myself.)
 Wrote a bubble sort, passed all test cases but took too long.
 
 **Thoughts:** I'm going to do the practice problem set, lab set, and problem set 3. I'm going to understand algorithms arhhghh I can do this.
+Ooh also I was reading the README file for this challenge then realized it actually said to "push code onto GitHub" harharhar I'm not working on projects I'm just trying to grasp the basics. (sobs
 
 **Link to work:** [buuble sort](./codingpractices/bubble.c) 
