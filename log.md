@@ -346,7 +346,7 @@ exam in two days. lemme take four days off
 
 graduation trip for four days
 
-### Day 36: Apr 1, 2023
+### Day 36: Apr 2, 2023
 
 **Today's Progress**: More Raspberry Pi.
 
@@ -354,7 +354,7 @@ graduation trip for four days
 
 **Link to work:** no link
 
-### Day 37: Apr 2, 2023
+### Day 37: Apr 3, 2023
 
 **Today's Progress**: Went back to the Roman to Integer thing and solved it. Started on second FreeCodeCamp.org course with data structure thingys by Javascript. It said I finished 28% already :)
 
@@ -363,7 +363,7 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 **Link to work:** [roman to integer](./codingpractices/roman_to_integer.py) 
 
-### Day 38: Apr 3, 2023
+### Day 38: Apr 4, 2023
 
 **Today's Progress**: I'M PROUDDDDDD
 
@@ -371,7 +371,7 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 **Link to work:** [Raspberry Pi alarm](./alarm.py) 
 
-### Day 39: Apr 4, 2023
+### Day 39: Apr 5, 2023
 
 **Today's Progress**: Solved the binary search. I love YouTube coding tutorials (https://www.youtube.com/watch?v=9q0k3OyCKPY). Started on another thingy that requires sorting but I forgot all about these algorithms. 50% progress on javascript course.
 
@@ -379,10 +379,18 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 **Link to work:** [binary search](./mistakes/binary.c) 
 
-### Day 39.1: Apr 5, 2023
+### Day 39.1: Apr 6, 2023
 
 **Today's Progress**: Went to the dentist tonight so didn't do anything. But I had someone write me the code for merge sort and I'm now staring at it in wonder.
 
 **Thoughts:** From time to time I just have to be amazed at how weirdly cool programming is.
 
 **Link to work:** ehhh I didn't do anything
+
+### Day 39.2: Apr 8, 2023
+
+**Today's Progress**: I found out that the code involved pointers and realized that I have such a terrible foundation so I'm going back to CS50. I'm going to get better at this I promise. (Like, a promise to myself.)
+
+**Thoughts:** 
+
+**Link to work:** 
