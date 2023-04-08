@@ -391,6 +391,6 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 
 **Today's Progress**: I found out that the code involved pointers and realized that I have such a terrible foundation so I'm going back to CS50. I'm going to get better at this I promise. (Like, a promise to myself.)
 
-**Thoughts:** 
+**Thoughts:** I'm going to do the practice problem set, lab set, and problem set 3. I'm going to understand algorithms arhhghh I can do this
 
 **Link to work:** 
