@@ -390,7 +390,8 @@ I love how interactive the lessons FreeCodeCamp.org offers, like coding right ne
 ### Day 39.2: Apr 8, 2023
 
 **Today's Progress**: I found out that the code involved pointers and realized that I have such a terrible foundation so I'm going back to CS50. I'm going to get better at this I promise. (Like, a promise to myself.)
+Wrote a bubble sort, passed all test cases but took too long.
 
-**Thoughts:** I'm going to do the practice problem set, lab set, and problem set 3. I'm going to understand algorithms arhhghh I can do this
+**Thoughts:** I'm going to do the practice problem set, lab set, and problem set 3. I'm going to understand algorithms arhhghh I can do this.
 
-**Link to work:** 
+**Link to work:** [buuble sort](./codingpractices/bubble.c) 
