@@ -396,3 +396,11 @@ Wrote a bubble sort, passed all test cases but took too long.
 Ooh also I was reading the README file for this challenge then realized it actually said to "push code onto GitHub" harharhar I'm not working on projects I'm just trying to grasp the basics. (sobs
 
 **Link to work:** [buuble sort](./codingpractices/bubble.c) 
+
+### Day 41: Apr 9, 2023
+
+**Today's Progress**: Trying to understand that recursive thing and trying to download visual studio code and configure it properly. Failed both.
+
+**Thoughts:** Uhhhh nope my brain is not working now
+
+**Link to work:** [thinking abt atoi](./mistakes/atoi.md) 
