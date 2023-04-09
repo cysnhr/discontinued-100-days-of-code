@@ -400,6 +400,14 @@ Ooh also I was reading the README file for this challenge then realized it actua
 ### Day 41: Apr 9, 2023
 
 **Today's Progress**: Trying to understand that recursive thing and trying to download visual studio code and configure it properly. Failed both.
+Also I finally figured out what is the difference between ++i and i++: 
+`int i = 5;
+int j = i++; // j will be assigned the value of i (5), and then i will be incremented to 6
+`
+`
+int i = 5;
+int j = ++i; // i will be incremented to 6 before j is assigned the new value of i (6)
+`
 
 **Thoughts:** Uhhhh nope my brain is not working now
 
