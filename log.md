@@ -410,5 +410,7 @@ int j = ++i; // i will be incremented to 6 before j is assigned the new value of
 `
 
 **Thoughts:** Uhhhh nope my brain is not working now
+1hr later
+OKAY WAIT I FINALLY UNDERSTAND THE CONFIGURATION IS FOR EVERY DIFFERENT FILE I'm so sorry for yelling at ChatGPT in all caps I'm sorry but thank you so much for getting me out here. I've never coded with debugging ever before and this is one of the greatest inventions I've ever known. (yup finished the recursive thing
 
-**Link to work:** [thinking abt atoi](./mistakes/atoi.md) 
+**Link to work:** [thinking abt atoi](./mistakes/atoi.md) [done](./codingpractices/atoi.c) 
