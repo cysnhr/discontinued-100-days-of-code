@@ -413,4 +413,12 @@ int j = ++i; // i will be incremented to 6 before j is assigned the new value of
 1hr later
 OKAY WAIT I FINALLY UNDERSTAND THE CONFIGURATION IS FOR EVERY DIFFERENT FILE I'm so sorry for yelling at ChatGPT in all caps I'm sorry but thank you so much for getting me out here. I've never coded with debugging ever before and this is one of the greatest inventions I've ever known. (yup finished the recursive thing
 
-**Link to work:** [thinking abt atoi](./mistakes/atoi.md) [done](./codingpractices/atoi.c) 
+**Link to work:** [thinking abt atoi](./mistakes/atoi.md) / [done](./codingpractices/atoi.c) 
+
+### Day 41.5: Apr 9, 2023
+
+**Today's Progress**: 65% on Javascript intro.
+
+**Thoughts:** i don't get vscode 
+
+**Link to work:** uhhh no?
