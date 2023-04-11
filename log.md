@@ -422,3 +422,9 @@ OKAY WAIT I FINALLY UNDERSTAND THE CONFIGURATION IS FOR EVERY DIFFERENT FILE I'm
 **Thoughts:** i don't get vscode 
 
 **Link to work:** uhhh no?
+
+### Day 41.5: Apr 10, 2023
+
+**Today's Progress**: I'm not going to lie but I really didn't do anything and I don't get how VSCode debugging works ahhhh
+
+**Thoughts:** i don't get vscode still
