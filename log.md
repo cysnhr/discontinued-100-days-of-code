@@ -428,3 +428,5 @@ OKAY WAIT I FINALLY UNDERSTAND THE CONFIGURATION IS FOR EVERY DIFFERENT FILE I'm
 **Today's Progress**: I'm not going to lie but I really didn't do anything and I don't get how VSCode debugging works ahhhh
 
 **Thoughts:** i don't get vscode still
+
+im not going to bring my laptop home for three days straight because i need it there + it's too heavy + i need less distraction. I always end up watching Youtube after the hour of coding passes.
