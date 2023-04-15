@@ -430,3 +430,14 @@ OKAY WAIT I FINALLY UNDERSTAND THE CONFIGURATION IS FOR EVERY DIFFERENT FILE I'm
 **Thoughts:** i don't get vscode still
 
 im not going to bring my laptop home for three days straight because i need it there + it's too heavy + i need less distraction. I always end up watching Youtube after the hour of coding passes.
+
+### Day 42: Apr 15, 2023
+
+**Today's Progress**: Hi I got my laptop back. writing mergesort program
+
+**Thoughts:** the debugging feature in VsCode works just fine for Python, and since I'm not ready to touch on memory (new and malloc and free and stuff) YET so Python it is. 
+My code is in an infinite loop right now like how my brain is stuck. See you tomorrow.
+
+I got sidetracked by a calculus rhapsody on youtube and it's the funniest (most educational?) thing ever.
+
+**Link to work:** [merge sort](./mistakes/mergesort.md)
