@@ -441,3 +441,13 @@ My code is in an infinite loop right now like how my brain is stuck. See you tom
 I got sidetracked by a calculus rhapsody on youtube and it's the funniest (most educational?) thing ever.
 
 **Link to work:** [merge sort](./mistakes/mergesort.md)
+
+### Day 43: Apr 16, 2023
+
+**Today's Progress**: Ahhhhhh merge sorrrrrrt am I stupid for not getting this in like two weeks
+
+**Thoughts:** The debugging feature in VSCode is REALLY fun but I guess it's up to me now
+I need to find more ways to understand the code
+Recursionnnnn how does it work how does the memory get allocated and how does it recurse (what is the verb form) I write terrible log books :D
+
+**Link to work:** [merge sort](./mistakes/mergesort.md)
