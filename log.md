@@ -451,3 +451,15 @@ I need to find more ways to understand the code
 Recursionnnnn how does it work how does the memory get allocated and how does it recurse (what is the verb form) I write terrible log books :D
 
 **Link to work:** [merge sort](./mistakes/mergesort.md)
+
+got home too late
+
+### Day 43.1: Apr 18, 2023
+
+**Today's Progress**: Found my problem. I don't get the recursion. I want to learn more about it first. Found a two hour FreeCodeCamp.org video about it and I'll do all the practice questions on my own after the tutorial.
+
+**Thoughts:** uhhhh
+
+**Link to work:** nope I have math class so no time bye
+
+This doesn't feel sustainable for me to force myself to code daily + finish all school work + sleep eight hours (I'm succeeding on the last one which I think is super amazing). So I guess I'll be taking often breaks. The goal is for me to learn anyways right.
